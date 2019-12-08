@@ -1,4 +1,6 @@
 # java-modularity-example
+![](https://github.com/gpassini/java-modularity-example/workflows/CI/badge.svg)
+
 Practicing with the Java Platform Module System
 
 ## Compiling
